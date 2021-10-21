@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.menu{
+    display: flex;
+    list-style-type: none;
+    background-color: #9BC9F5;
+    font-weight: bold;
+    height: 50px;
+    align-items: center;
+}
+
+.menu li{
+    margin: 0 15px 0 20px;
+}

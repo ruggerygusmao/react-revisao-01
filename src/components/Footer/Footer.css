@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+footer{
+    background-color: #333;
+    color: #fff;
+    height: 20vh;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+footer h3{
+    margin: 0 0 10px 0;
+}
+
+footer p {
+    width: 200px;
+    color: #fff;
+}
